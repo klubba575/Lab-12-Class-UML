@@ -23,8 +23,7 @@ namespace Lab_12___ClassUML
 		}
 		public override string ToString()
 		{
-			string studentThing = ($"The student's name is {Name}, their address is {Address}, their program is {Program}, " +
-				$" their year is {Year}, and their fee is {Fee}");
+			string studentThing = base.ToString() + $" Program: {Program}, Year: {Year}, Fee: {Fee}";
 			return studentThing;
 		}
 	}

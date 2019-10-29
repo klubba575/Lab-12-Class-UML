@@ -21,8 +21,7 @@ namespace Lab_12___ClassUML
 		}
 		public override string ToString()
 		{
-			string staffThing = ($"Staff's name is {Name}, their address is {Address}, their school" +
-				$" is {School}, and their pay is {Pay}");
+			string staffThing = base.ToString() + ($" School: {School}, Pay: {Pay}");
 			return staffThing;
 		}
 		
