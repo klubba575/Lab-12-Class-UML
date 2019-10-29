@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\bin\Debug\netcoreapp3.0\Lab 12 - ClassUML.exe
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\bin\Debug\netcoreapp3.0\Lab 12 - ClassUML.deps.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\bin\Debug\netcoreapp3.0\Lab 12 - ClassUML.runtimeconfig.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\bin\Debug\netcoreapp3.0\Lab 12 - ClassUML.runtimeconfig.dev.json
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\bin\Debug\netcoreapp3.0\Lab 12 - ClassUML.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\bin\Debug\netcoreapp3.0\Lab 12 - ClassUML.pdb
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\obj\Debug\netcoreapp3.0\Lab 12 - ClassUML.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\obj\Debug\netcoreapp3.0\Lab 12 - ClassUML.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\obj\Debug\netcoreapp3.0\Lab 12 - ClassUML.AssemblyInfo.cs
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\obj\Debug\netcoreapp3.0\Lab 12 - ClassUML.dll
+C:\Users\Andy Wilder\Desktop\Grand Circus Detroit\Week 3\Lab 12 - ClassUML\Lab 12 - ClassUML\obj\Debug\netcoreapp3.0\Lab 12 - ClassUML.pdb
